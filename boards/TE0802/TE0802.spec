@@ -1,0 +1,6 @@
+ARCH_TE0802 := aarch64
+BSP_TE0802 := xilinx-te0802-v2019.2-final.bsp
+BITSTREAM_TE0802 := base/base.bit
+FPGA_MANAGER_TE0802 := 1
+
+STAGE4_PACKAGES_TE0802 := ethernet
